@@ -10,17 +10,17 @@
 <body>
     
 <div class="input-group input-group-sm mb-3">
-    <span class="input-group-text" id="inputGroup-sizing-sm">Small</span>
+    <span class="input-group-text" id="inputGroup-sizing-sm">nama</span>
     <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
   </div>
   
   <div class="input-group mb-3">
-    <span class="input-group-text" id="inputGroup-sizing-default">Default</span>
+    <span class="input-group-text" id="inputGroup-sizing-default">alamat</span>
     <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
   </div>
   
   <div class="input-group input-group-lg">
-    <span class="input-group-text" id="inputGroup-sizing-lg">Large</span>
+    <span class="input-group-text" id="inputGroup-sizing-lg">nim</span>
     <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg">
   </div>
 
